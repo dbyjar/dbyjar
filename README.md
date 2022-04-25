@@ -1,15 +1,11 @@
-Hi 👋 My name is jaaar
+<img src="https://media.giphy.com/media/QWawolwel5mTnhJ9gH/giphy.gif" width="100"/> Hello 👋 World
 ======================
 
-FrontEnd Web Developer
-----------------------
+Hi! I'm Fajar and I'm a FrontEnd Web Developer at @bintoroapps, and digital design enthusiast based in Jakarta, Indonesia.
 
-Hi! I'm Jaaar and I'm a FrontEnd Web Developer at @bintoroapps, and digital design enthusiast based in Jakarta, Indonesia.
-
-* 🌍  I'm based in Jakarta, Indonesia
-* ✉️  You can contact me at [dbyjar@gmail.com](mailto:dbyjar@gmail.com)
-* 🚀  I'm currently working on [Bintoro Corp](http://bintorobuild.co.id/)
 * 🧠  I'm learning Next js, Typescript
+* 🚀  I'm currently working on [Bintoro Corp](http://bintorobuild.co.id/)
+* ✉️  You can contact me at [dbyjar@gmail.com](mailto:dbyjar@gmail.com)
 
 <a href="https://www.github.com/dbyjar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dbyjar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -30,16 +26,16 @@ src="https://img.shields.io/github/followers/dbyjar?logo=github&style=for-the-ba
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.dribbble.com/dbyjar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/dbyjar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/byjarclub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/dbyjar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbyjar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+  <a href="https://www.github.com/dbyjar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.dribbble.com/dbyjar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/byjarclub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+</p>
