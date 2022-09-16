@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/QWawolwel5mTnhJ9gH/giphy.gif" width="100"/> Hello 👋 World
+<img src="https://media.giphy.com/media/QWawolwel5mTnhJ9gH/giphy.gif" width="100"/> Hello
 ======================
 
 Hi! I'm Fajar and I'm a FrontEnd Web Developer at @bintoroapps, and digital design enthusiast based in Jakarta, Indonesia.
