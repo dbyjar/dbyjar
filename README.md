@@ -1,4 +1,4 @@
-Hi! I'm Jar and I'm a FrontEnd Web Developer based in Jakarta, Indonesia.
+Hi! I'm Jar and I'm a Frontend Developer based in Jakarta, Indonesia.
 
-* 🚀  I'm currently working on [Erajaya]
+* 🚀  I'm currently working on [Eraspace](https://eraspace.com)
 * ✉️  You can contact me at [dbyjar@gmail.com](mailto:dbyjar@gmail.com)
